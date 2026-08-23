@@ -1,98 +1,23 @@
-# Meetings
+## Urgency
+What qualifies an urgent message? Hi X, there's an icm related to abc and its customer impacting across all prod regions. We need help urgently on this.
 
-Meetings are a tool for collaboration, not a measure of participation or
-productivity. They should create enough value to justify the time and focused
-attention they take from everyone involved.
+What's not urgent and should not be treated as urgent? Hi X, what's the update about xyz. Usually, feature items are the best area in case you need a real update. 
+Hi X, I know you worked on abc, could you please hop on a call so that I can bring this up(such type of knowledge questions should be treated like a separate meeting by itself)
 
-## Prefer asynchronous communication
+## Quick calls
+Hi X, quick call? These messages like a quick call, without letting someone know the agenda creates panic and unwanted urgency to things that can wait. Sometimes it's understandable, but quick calls rarely help. We can do quick calls, when needed but depends on the context always.
 
-Use a message or shared document when people can contribute independently. A
-clear request includes:
+## Lesser the meetings the better quality of work
+Meetings usually should be done for one reason and one reason only. To get clarity of what we want to achieve. Who is doing what? and what are the blockers. If there are no blockers, meetings take time away from each and everyone from the meeting. Rather focus on better code quality, understanding the logic and have self-restrain about everything while working.
 
-- the relevant context;
-- the question or decision needed;
-- what has already been considered; and
-- when a response is needed, if there is a real deadline.
+## Boundaries
+While it is okay to message on weekends and after hours, expecting an immediate response from someone would cross boundaries. Boundaries are meant so that you can focus on your work, while I can focus on mine. It's my responsibility to not cross your boundaries and I thoroughly understand that, but likewise I would expect the same with you. 
 
-Status requests are not urgent by default. Senders should allow a reasonable
-response time, and recipients should not be expected to interrupt focused work
-to acknowledge every message immediately.
+## Regular no meeting days and think space
+In the rush of everyday, we are forgetting that software engineering is still a creative work. You are not here to satisfy your ego, you are here to build better code. If the purpose is not visibility and output, then it would be okay to have no meeting days. At least one day in the week should be dedicated to engineers to have no meetings and be okay with it. If you have questions, doubts, and need clarity on something. Jot all of that in a document and comeback with the questions so we have less back and forth and more think space. 
 
-## Request calls with context
+## Goal is not business, the goal is productivity
+Have you ever had those days, where you start worrying about what others are thinking if you miss the meeting. I think it's rude to call people for meetings where there's nothing they can add. We all have the urge to speed things up and we think that meetings will do that. However, slow work is still work and progress happens when you are having the mental space to think. Not any other way. Pressurising someone to deliver quickly won't help them create the best quality.
 
-Avoid sending only "Quick call?" A call request should state the topic, the
-desired outcome, and why a live conversation would help. This gives the other
-person enough information to prepare, answer asynchronously, or suggest a more
-appropriate time.
-
-Before requesting a call, pause long enough to clarify the question and review
-the information already available. This restraint reduces unnecessary urgency
-and leads to a more useful conversation.
-
-## Meet for a clear outcome
-
-A meeting is appropriate when the work benefits from people collaborating in
-real time. Examples include:
-
-- making a decision that requires discussion;
-- resolving a blocker or significant ambiguity;
-- designing a solution together;
-- coordinating a response to an incident; or
-- discussing sensitive feedback or disagreement.
-
-Every invitation should identify the purpose, desired outcome, preparation,
-and expected contribution of each attendee. Invite only the people needed to
-reach the outcome. Anyone whose contribution is unclear may decline, request
-more context, or ask to receive the notes instead.
-
-Cancel a meeting when its outcome has already been reached or asynchronous
-communication is sufficient. End early when the work is complete.
-
-## Record the result
-
-A useful meeting produces a result, such as a decision, an answer, or a clear
-next step. Record important outcomes where affected people can find them. Action
-items should have an owner and, when necessary, an agreed due date.
-
-## Treat urgency explicitly
-
-Urgency should reflect an immediate and meaningful risk, such as an active
-incident, a security concern, or a time-sensitive customer impact. Use the
-team's established urgent channel for those situations and explain the impact.
-
-Repeated messages, unexpected calls, or requests for routine updates should not
-be used to manufacture urgency. When no urgent impact is stated, recipients may
-respond within their normal working rhythm.
-
-## Respect working boundaries
-
-Messages may sometimes be sent outside another person's working hours, but they
-do not create an expectation of reading, acknowledgement, or response. Use
-scheduled delivery when practical, especially when the message can wait.
-
-People may protect focus time, decline meetings outside their working hours,
-and turn off notifications while unavailable. Genuine emergencies follow the
-team's established incident or on-call process rather than relying on ordinary
-messages.
-
-## Protect thinking time
-
-Software engineering requires uninterrupted time to understand problems and
-develop sound solutions. The team should protect at least one regular
-meeting-free day each week, except for genuine incidents or other unavoidable
-time-sensitive work.
-
-Collect non-urgent questions in a document instead of creating repeated
-interruptions. Thoughtful preparation often resolves questions before a
-meeting is needed and makes any eventual discussion shorter and clearer.
-
-## Value progress over busyness
-
-Attendance and rapid responses are not substitutes for meaningful progress.
-Missing an optional meeting or taking time to think should not be treated as a
-lack of commitment.
-
-Moving deliberately is still progress. Pressure and constant interruption may
-create visible activity, but they rarely produce the best decisions or the
-highest-quality work. We give people the space to think, communicate clearly,
-and deliver sustainable results.
+## Common Sense above all
+While all above are rules created for the benefit of working in a structured space, and a quiet space, so that all of us can benefit. But the rules should not be treated as rigid items that you can never do. But rather be treated as a baseline for what the best way to work would be. If there are situations out of the ordinary, commonsense should prevail. 
