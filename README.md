@@ -1,12 +1,8 @@
 # The Way We Work
 
-This repository is our living handbook for how we meet, communicate, and work
-without letting work consume all of our attention. It records the agreements
-that help our team collaborate with clarity, healthy boundaries, and deliberate
-self-restraint.
+This document was started as a personal way of working. However, as it grew, I realised that there's more to it. The document has grown chronologically. That is I first started with meetings, then grow to security, then boundaries, and then working with restraints. It lays down some principles of working that I like.
 
-The handbook describes our current defaults, not permanent laws. When reality
-and documentation disagree, raise the mismatch and improve the rule.
+This might not be something that everyone likes or does like doing. There's always common sense before the rules. However, if you want to really think about something, think in terms of your contribution. There will be days where you have to pause rather than react very impulsively. React less and give more. That's the higher level mantra. At the end of the day, like Victor Frankl says, "There is a space that lies between stimulus and response and that's our ability to choose. In that choice lies our growth and freedom."
 
 ## Handbook
 
@@ -15,40 +11,13 @@ and documentation disagree, raise the mismatch and improve the rule.
 - [Work boundaries](docs/work-boundaries.md)
 - [Working with restraint](docs/working-with-restraint.md)
 - [Security over competition](docs/security-over-competition.md)
+- [A lens from Jainism](docs/lensofjainism.md)
 - [Rule template](templates/rule.md)
 
-## Principles
+## How to Contribute
 
-- Attention is finite. We spend it deliberately.
-- A message is not automatically an interruption.
-- Meetings must justify the time and focus they take from the group.
-- Rest and unavailability are normal parts of sustainable work.
-- Urgency is stated explicitly; it is never implied by volume or repetition.
-- We pause before committing, reacting, escalating, or adding more work.
-- We build confidence through contribution, not by diminishing others.
-
-## What Belongs Here
-
-Add guidance when it is reusable, affects how others work, or prevents a
-recurring mistake. A useful rule states:
-
-- what we expect;
-- why the expectation exists;
-- when it applies;
-- any valid exceptions; and
-- how someone can tell they followed it.
-
-Keep project-specific setup and implementation details in the project that owns
-them. This handbook is for shared behavior and boundaries, not technical
-reference material.
-
-## Changing the Handbook
-
-1. Start from an observed problem, decision, or repeated team practice.
-2. Use the [rule template](templates/rule.md) for substantive additions.
-3. Explain the trade-off behind the rule, not only the instruction.
-4. Ask the people affected by the change to review it.
-5. Update or remove guidance when it no longer matches how the team works.
-
-Prefer small, self-contained changes. Each pull request should leave the
-handbook more accurate and usable on its own.
+1. Start from something you actually observed, not a hypothetical.
+2. Use the [rule template](templates/rule.md) for anything substantive.
+3. Say why the guidance exists, not just what to do.
+4. Keep changes small enough to stand on their own.
+5. Update or remove a doc once it stops matching how we actually work.
