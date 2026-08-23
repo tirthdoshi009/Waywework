@@ -16,7 +16,7 @@ While it is okay to message on weekends and after hours, expecting an immediate 
 ## Regular no meeting days and think space
 In the rush of everyday, we are forgetting that software engineering is still a creative work. You are not here to satisfy your ego, you are here to build better code. If the purpose is not visibility and output, then it would be okay to have no meeting days. At least one day in the week should be dedicated to engineers to have no meetings and be okay with it. If you have questions, doubts, and need clarity on something. Jot all of that in a document and comeback with the questions so we have less back and forth and more think space. 
 
-## Goal is not business, the goal is productivity
+## Goal is not busyness, the goal is productivity
 Have you ever had those days, where you start worrying about what others are thinking if you miss the meeting. I think it's rude to call people for meetings where there's nothing they can add. We all have the urge to speed things up and we think that meetings will do that. However, slow work is still work and progress happens when you are having the mental space to think. Not any other way. Pressurising someone to deliver quickly won't help them create the best quality.
 
 ## Common Sense above all
