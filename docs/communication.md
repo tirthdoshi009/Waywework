@@ -17,6 +17,34 @@ A useful message makes the following clear:
 - when a response is genuinely needed; and
 - what happens if no response arrives.
 
+## Separate What Is Known From What Is Not
+
+When a technical situation is still being understood, write down the boundary
+of current knowledge before proposing work. Separate the message into:
+
+- **Known:** facts supported by observation or evidence;
+- **Unknown:** questions that still need investigation;
+- **Not needed:** work that current evidence does not justify; and
+- **Next:** the smallest action that would resolve an important unknown.
+
+Writing these separately prevents assumptions from quietly becoming facts. It
+also makes scope visible: the team can act on what is known without treating
+every uncertainty as a requirement.
+
+For example:
+
+> **Known:** Requests fail only when the optional header is absent.
+>
+> **Unknown:** Whether the gateway or the service rejects the request.
+>
+> **Not needed:** A redesign of the authentication flow.
+>
+> **Next:** Capture one gateway trace for a failing request and compare it with
+> a successful request.
+
+Use this structure when it adds clarity, not as a mandatory template for every
+message. A short message can make the same distinctions in ordinary prose.
+
 ## Response Expectations
 
 Sending a message does not create an obligation to respond immediately. People
@@ -49,6 +77,7 @@ response is less important than a considered one.
 ## Review Questions
 
 - Can the recipient tell what is being asked of them?
+- Are facts, open questions, and non-goals distinguishable?
 - Is the urgency explicit and justified?
 - Is this in the place where future readers will look for it?
 - Does the message leave room for a thoughtful response?
