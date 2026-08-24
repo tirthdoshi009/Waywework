@@ -17,6 +17,22 @@ A useful message makes the following clear:
 - when a response is genuinely needed; and
 - what happens if no response arrives.
 
+## Write to Clarify the Work
+
+Writing is not only a way to communicate thinking after it is complete. The act
+of writing can reveal what the work actually is.
+
+Before starting a technical discussion or proposing a solution, write a short
+account of what you observed. Name what the evidence supports, where your
+understanding ends, and what the evidence does not require you to change. This
+often exposes assumptions, narrows the problem, and prevents an open question
+from quietly becoming additional scope.
+
+A written message is useful even when its first reader is the author. Sending
+it to the team then gives others something concrete to correct, extend, or act
+on. The goal is not to make every thought public; it is to make consequential
+technical reasoning clear enough to inspect.
+
 ## Separate What Is Known From What Is Not
 
 When a technical situation is still being understood, write down the boundary
@@ -44,6 +60,35 @@ For example:
 
 Use this structure when it adds clarity, not as a mandatory template for every
 message. A short message can make the same distinctions in ordinary prose.
+
+## Resolve Unknowns Deliberately
+
+Independence does not mean already knowing the answer or working alone. It
+means taking responsibility for reducing uncertainty before passing it to
+someone else.
+
+For an important unknown:
+
+1. State the question precisely and explain which decision it affects.
+2. Check the nearest reliable evidence: logs, code, documentation, prior
+	decisions, or a person with direct context.
+3. Run the smallest safe test that could distinguish between the likely
+	explanations.
+4. Record what the evidence changed, including explanations it ruled out.
+5. Decide whether to act, investigate further, or ask for help.
+
+Time-box the investigation according to the consequence of being wrong. Do not
+spend hours resolving a question that will not change the decision. Conversely,
+do not turn a consequential assumption into a fact merely to keep moving.
+
+When asking for help, bring the question, the evidence checked, and the decision
+that is blocked. This makes escalation a continuation of the investigation
+rather than a transfer of an unexamined problem.
+
+As responsibility grows, the work often contains more ambiguity and fewer
+complete instructions. The expectation is not to eliminate every unknown. It
+is to identify which unknowns matter, make reversible progress where possible,
+and expose consequential uncertainty early enough for others to contribute.
 
 ## Response Expectations
 
@@ -78,6 +123,9 @@ response is less important than a considered one.
 
 - Can the recipient tell what is being asked of them?
 - Are facts, open questions, and non-goals distinguishable?
+- Is each important unknown connected to a decision and a next action?
+- Has available evidence been checked before the unknown is passed on?
+- Did writing the message clarify the work, or merely narrate activity?
 - Is the urgency explicit and justified?
 - Is this in the place where future readers will look for it?
 - Does the message leave room for a thoughtful response?
