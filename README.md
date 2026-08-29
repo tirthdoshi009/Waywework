@@ -13,6 +13,7 @@ This might not be something that everyone likes or does like doing. There's alwa
 - [Security over competition](docs/security-over-competition.md)
 - [Saying I do not know](docs/saying-i-dont-know.md)
 - [Four stages of a task](docs/four-stages-of-a-task.md)
+- [Deciding](docs/deciding.md)
 - [Rule template](templates/rule.md)
 
 ## How to Contribute
