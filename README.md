@@ -8,6 +8,7 @@ This might not be something that everyone likes or does like doing. There's alwa
 
 - [Meetings](docs/meetings.md)
 - [Communication](docs/communication.md)
+- [Writing chronologically](docs/writing-chronologically.md)
 - [Work boundaries](docs/work-boundaries.md)
 - [Working with restraint](docs/working-with-restraint.md)
 - [Security over competition](docs/security-over-competition.md)
