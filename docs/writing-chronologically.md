@@ -1,135 +1,105 @@
 # Writing Chronologically
 
-I was describing a requests tab and could not make the design clear. I knew
-that it showed allow-title requests, that the requests belonged to a title,
-and that this was different from publishing. The facts were present, but the
-relationship between them was not.
+Technical explanations are easier to inspect when they follow the order in
+which a system behaves.
 
-The explanation became clearer when I wrote it in the order the system runs:
+While documenting two related operations, describing their properties did not
+make their relationship clear. Writing each operation in the order it ran
+showed which steps were known and where the explanation depended on an
+assumption:
 
-1. The page loads a title.
-2. It calls the API with the titleId.
-3. The API returns an array of requests for that title.
-4. The page displays each allow-title request in the array.
+1. A person initiates an action.
+2. One component sends data to another.
+3. The receiving component returns a result.
+4. The result changes what the person sees or can do next.
 
-Once the sequence was visible, so was the question I had not been able to
-name: publishing a title does not follow the same sequence. It is a separate
-operation, not another mode of the requests tab.
+Writing one operation this way does not explain the other. Each path must be
+traced before their relationship can be stated or a design decision can be
+made. The sequence makes the missing relationship visible without filling it
+with a convenient explanation.
 
-Chronology did more than explain the design. It exposed where one design ended
-and another began.
+Chronology is useful when the order is part of the information. It is not a
+substitute for evidence, precise terminology, or an account of the system's
+boundaries.
 
 ## Write in the Order the System Runs
 
-When explaining behaviour, follow the path a request, event, or decision takes:
-the trigger, the action, the response, the resulting state, and the next thing
-that uses that state.
+When explaining behaviour, follow the path taken by the request, event, or
+decision. Name the initial state, trigger, operation, response, resulting
+state, and next consumer when each is relevant.
 
-This gives the reader a chain they can inspect. If they disagree, they can
-point to the exact step where their understanding differs. If a step cannot be
-explained, the limit of my understanding is visible before it becomes an
-assumption.
+Use precise, checkable terms. "The interface gets the data" does not identify
+enough for another person to verify the account. Name the component, operation,
+input, and result when they matter.
 
-Writing by category does not provide the same test. Separate paragraphs about
-the API, data, and interface may each be accurate while leaving the connection
-between them unstated. Categories help a reader look up facts. Chronology helps
-them understand behaviour.
+Do not include steps merely to make the account look complete. A step that
+cannot be supported should remain an explicit unknown. Do not silently change
+the kind or scope of data between two steps unless the transformation has been
+observed.
 
-## Use the Same Order for Bugs and Incidents
+## Do Not Let Order Imply Cause
 
-For a bug, write what triggered the behaviour, what the system did, what was
-expected, and where the observed result diverged.
+One event following another does not prove that the first caused the second.
+A chronological account should distinguish:
 
-For an incident, write what changed, which effect appeared next, how the impact
-spread, and what interrupted that sequence. Do not begin with a collection of
-logs and observations and leave the reader to reconstruct the event.
+- **Observed:** what the available evidence directly shows;
+- **Inferred:** the explanation currently supported by that evidence; and
+- **Unknown:** the connection that has not yet been verified.
 
-The sequence should distinguish evidence from inference. "The client sent the
-request, the gateway returned 403, and no service trace was created" is an
-observed sequence. "The gateway rejected the request before it reached the
-service" is the conclusion supported by that sequence. Writing both makes the
-reasoning inspectable.
+An inference should not be presented as another step in the sequence. If an
+action is followed by an error, the order alone does not prove which step
+failed. It may support a hypothesis, but another condition may explain the
+same observation.
 
-## Let a Missing Step Remain Missing
-
-Do not join two observed events with a cause I have not verified. If I know
-that one event happened and another followed, but not how they are connected,
-write the gap plainly.
-
-That gap is usually the **Unknown** in the Known / Unknown / Not needed / Next
-structure from [Communication](communication.md):
-
-> **Known:** The client sent the request and received 403. No service trace was
-> created.
->
-> **Unknown:** Whether the gateway rejected the request or routed it somewhere
-> else.
->
-> **Next:** Capture the gateway trace for the same correlation ID.
-
-An incomplete sequence is more useful than a complete-sounding explanation
-built on an assumption. It shows where investigation should continue.
+Use the Known / Unknown / Not needed / Next structure from
+[Communication](communication.md) when an unverified connection matters to the
+work. An incomplete but accurate sequence is more useful than a fluent account
+that hides an assumption.
 
 ## Separate System Order From Discovery Order
 
-The order in which I learned something is usually not the order in which the
-system does it. Investigation includes wrong assumptions, repeated searches,
-and facts discovered before I understood their relevance. Reproducing that
-journey makes the reader repeat my confusion.
+The order in which a system behaves is usually different from the order in
+which its behaviour is discovered. Investigation may include wrong assumptions,
+repeated searches, and facts found before their relevance is understood.
 
-Write the system's order in the final explanation. Include the discovery order
-only when the wrong turn is itself useful—for example, when another person is
+Preserve discovery order in investigation notes when it provides useful
+evidence. Organize the final explanation around the system's behaviour so that
+readers do not have to repeat the investigation.
+
+Include a wrong turn only when it is useful—for example, when another person is
 likely to make the same assumption and needs to know why it fails.
 
-Investigation notes may remain chronological to preserve evidence. The final
-technical explanation should reorganize that evidence around the behaviour
-being explained.
+## Use Another Structure When Order Is Not Enough
+
+Not every system has one linear order. Asynchronous work, retries, fan-out, and
+concurrent events may form several related paths rather than one sequence. Do
+not flatten them into a single narrative that the evidence does not support.
+
+Choose the structure that carries the important information:
+
+- use a comparison when two operations need to be distinguished;
+- use a state model when valid transitions and lifecycle rules matter;
+- use a dependency map when several components or effects interact; and
+- state an invariant directly when it applies across every path.
+
+A sequence describes one path through a system. It may not explain the system's
+architecture, ownership boundaries, or rules that remain true across all
+paths.
 
 ## Lead With the Point
 
-Writing chronologically does not mean withholding the conclusion until the
-end. State the request, decision, or finding first, then provide the ordered
-account that supports it.
+Chronology organizes the supporting explanation, not necessarily the message
+as a whole. State the request, decision, or finding first, then provide the
+ordered account that supports it.
 
-For example:
-
-> The requests tab and title publishing need separate designs. The requests
-> tab loads allow-title requests by titleId, while publishing follows a
-> different operation.
-
-The sequence can follow underneath. The opening tells the reader why the
-details matter; the chronology lets them verify the claim. This keeps the
-message consistent with [Communication](communication.md): make the required
-action clear without making the reader reconstruct the reasoning.
-
-## Name Each Step Precisely
-
-A sequence is useful only when its steps can be checked. "It calls the service
-and gets the data" has an order but not enough information to investigate.
-"The page calls the API with the titleId and receives an array of allow-title
-requests" identifies the input, boundary, and result.
-
-When I do not know the correct term, say so and find it. Writing around a
-missing term hides the same kind of unknown as writing around a missing step.
-[Saying I Do Not Know](saying-i-dont-know.md) applies to vocabulary as much as
-it applies to behaviour.
-
-## Use Chronology When Order Carries Meaning
-
-Not every document should be a sequence. A reference page, a comparison, and a
-list of constraints are easier to use when organized by subject.
-
-Use chronology when the reader needs to understand how something behaves, why
-something happened, or where a result diverged from expectation. Use categories
-when the reader needs to find independent facts. If changing the order would
-change the explanation, the order is part of the information.
+This tells the reader why the sequence matters without asking them to
+reconstruct the purpose of the message from the details.
 
 ## Review Questions
 
-- Can the reader follow the request, event, or decision from beginning to end?
-- Is this the order the system runs, or only the order in which I learned it?
-- Which statements are observations, and which are conclusions?
-- Have I left an unknown visible instead of filling it with an assumption?
-- Does the reader know the point before the supporting sequence begins?
-- Is each step precise enough for someone else to verify?
-- Does order carry meaning here, or would a reference structure work better?
+- Would changing the order change the explanation?
+- Is this the order the system runs or the order in which it was investigated?
+- Which statements are observations, inferences, and unknowns?
+- Does the sequence imply a cause that has not been verified?
+- Is each step precise enough for another person to check?
+- Would a comparison, state model, dependency map, or invariant be clearer?
