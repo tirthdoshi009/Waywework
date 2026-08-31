@@ -66,7 +66,7 @@ Preserve discovery order in investigation notes when it provides useful
 evidence. Organize the final explanation around the system's behaviour so that
 readers do not have to repeat the investigation.
 
-Include a wrong turn only when it is useful—for example, when another person is
+Include a wrong turn only when it is useful, such as when another person is
 likely to make the same assumption and needs to know why it fails.
 
 ## Use Another Structure When Order Is Not Enough
