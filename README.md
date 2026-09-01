@@ -17,6 +17,14 @@ This might not be something that everyone likes or does like doing. There's alwa
 - [Deciding](docs/deciding.md)
 - [Rule template](templates/rule.md)
 
+## Books
+
+What a book changed about the way I work, and what I left. A book note states
+the book's argument on its own terms first, so it stands without the handbook,
+and then records what was confirmed, what changed, and what was rejected.
+
+- [Ultralearning](books/ultralearning.md)
+
 ## How to Contribute
 
 1. Start from something you actually observed, not a hypothetical.
