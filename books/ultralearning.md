@@ -1,164 +1,179 @@
 # Ultralearning
 
-Scott H. Young, 2019. Read while trying to work out why some systems became
-clear to me in a week and others stayed opaque for months.
+Scott H. Young, 2019. I read it while trying to work out why some systems
+became clear to me in a week and others stayed unclear for months.
 
 ## What the Book Argues
 
-Learning fails in three predictable ways. Practice happens in conditions that
-do not match the conditions of use, so nothing transfers. Review feels
-productive because recognising material is easy, so recognition gets mistaken
-for recall. Honest correction is uncomfortable, so people collect feedback
-that flatters instead of feedback that corrects.
+Most learning fails for three reasons.
 
-Ultralearning is Young's name for learning that is self-directed, intense, and
-strategic: the learner owns every decision, chooses the method that works over
-the method that is comfortable, and researches the territory before entering
-it. The nine principles below are each an attack on one of the three failures.
+The first is that people practise in one setting and need the skill in a
+different one, so nothing carries over. The second is that rereading feels
+productive. Recognising something is easy, and it gets mistaken for being able
+to recall it. The third is that honest correction is uncomfortable, so people
+end up with feedback that flatters instead of feedback that helps.
+
+Young uses the word ultralearning for learning that is self-directed, intense,
+and planned. The learner makes every decision, picks the method that works
+over the method that is comfortable, and studies the territory before walking
+into it. The nine principles below each attack one of those three failures.
 
 ## The Nine Principles
 
-- **Metalearning — first draw a map.** Before studying anything, research how
-  the subject is structured and how people successfully learn it. Young's
-  guideline is to spend around ten percent of the project's time on this.
-  Answer why you are learning it, what concepts, facts, and procedures it
-  contains, and how others have learned it. Prevents effort spent on the wrong
-  material in the wrong order. *Tip: before opening the code, spend fifteen
-  minutes listing the unknowns and sorting them into concepts, facts, and
-  procedures. Concepts get traced, facts get looked up once, procedures get
-  done.*
-- **Focus — sharpen your knife.** Treat concentration as a trainable capacity
-  with three separate failures: not starting, not sustaining, and not focusing
-  well. Short commitments fix the first, spaced sessions and a cleared
-  environment fix the second, and matching the intensity of the state to the
-  kind of task fixes the third. Prevents being busy with the material without
-  encoding any of it. *Tip: put the hard trace in a booked block with
-  notifications off, and leave the shallow work for the fragmented hours. Do
-  not spend a rare uninterrupted hour on something interruptible.*
-- **Directness — go straight ahead.** Practise the actual skill in conditions
-  as close as possible to the ones where it will be used. Build the real
-  project, speak the real language, give the real talk. Where that is unsafe,
-  simulate it. Prevents transfer failure, which is knowledge that cannot be
-  used outside the room it was learned in. Young is explicit that this is
-  uncomfortable by design, because it means being visibly bad at the real
-  thing. *Tip: to learn a service, ship the smallest real change to it rather
-  than reading it end to end. One merged one-line fix teaches more than a day
-  of reading.*
-- **Drill — attack your weakest point.** Find the component that is limiting
-  overall performance, isolate it, practise it on its own, then put it back
-  into the whole skill. The bottleneck is identified through direct practice
-  first, so drilling is never the starting point. Prevents rehearsing what is
-  already strong. *Tip: keep a note of the step that slows me down each week.
-  When the same step appears three times, spend thirty minutes practising only
-  that step, away from real work.*
-- **Retrieval — test to learn.** Recall from memory instead of reviewing.
-  Close the book and write down what you know, before you feel ready.
-  Attempting a problem before being shown the answer improves how well the
-  answer is encoded, even when the attempt is wrong. Prevents the illusion of
-  competence, where recognising the material is mistaken for being able to
-  produce it. *Tip: write the Known / Unknown / Not needed / Next from memory
-  with the sources closed, then open them and correct it. The corrections are
-  the actual result.*
-- **Feedback — do not dodge the punches.** The type matters more than the
-  amount. Outcome feedback says whether it worked, informational feedback says
-  what was wrong, and corrective feedback says what was wrong and how to fix
-  it. Design practice so the third kind arrives. Discard noise, which is
-  variation that reflects luck rather than performance, and discount praise,
-  which feels good and displaces the information that would have helped.
-  *Tip: when a review says the change is fine, ask what would have made it
-  wrong. "Looks good" is outcome feedback; the answer to that question is
-  corrective.*
-- **Retention — do not fill a leaky bucket.** Forgetting begins immediately, so
-  retention has to be built in rather than assumed. Space reviews at widening
-  intervals rather than massing them, practise skills until they run without
-  effort, keep going past the point of first mastery, and use memory aids for
-  the facts that resist all of that. *Tip: reopen one investigation note a week
-  and reconstruct it from memory before reading it. What I cannot reconstruct
-  is what I never understood.*
-- **Intuition — dig deep before building up.** Understanding is built by
-  refusing shortcuts, not by talent. Sit with a hard problem for a set period
-  before looking up the answer, derive a rule rather than memorise it, start
-  from a concrete example before generalising, and explain the idea as though
-  to someone with no background. Gaps in the explanation are gaps in the
-  understanding. Prevents pattern-matching that collapses when the problem
-  changes shape. *Tip: before asking anyone, write down what I expect the
-  answer to be and why. Send the question anyway; the prediction costs twenty
-  minutes and makes the answer stick.*
-- **Experimentation — explore outside your comfort zone.** Copying a proven
-  method is right at the start and insufficient later, because at the frontier
-  no one method covers the ground. Compare approaches directly, impose
-  constraints that force new ones, and combine skills from unrelated areas.
-  Prevents the plateau that comes from only ever executing what was taught.
-  *Tip: experiment where failure is free. A scratch branch, a trace nobody
-  needs, a design that will not ship. Not on the change that is going out
-  today.*
+**1. Metalearning. First draw a map.** Research how a subject is put together
+and how other people have learned it, before you start. Young suggests
+spending about a tenth of the project on this. Ask why you are learning it,
+what it is made of, and how others learned it. This stops you from studying
+the wrong things in the wrong order.
 
-Young's own caveats are worth keeping. The principles are simultaneous
-supports rather than a sequence. An ultralearning project is demanding and is
-not the right tool for every subject, and the principles can be applied inside
-ordinary learning time without running a project at all.
+*Tip: before opening the code, spend fifteen minutes listing the unknowns and
+sorting them. Concepts get traced. Facts get looked up once. Procedures get
+done.*
+
+**2. Focus. Sharpen your knife.** Treat concentration as something you train.
+There are three ways it fails: not starting, not keeping going, and not
+focusing well. Short commitments fix the first. Spaced sessions and a quiet
+environment fix the second. Matching your state to the task fixes the third.
+This stops you from being busy with the material without learning any of it.
+
+*Tip: put the hard trace in a booked block with notifications off. Leave the
+shallow work for the broken-up hours. Do not spend a rare quiet hour on
+something you could do in ten minutes between meetings.*
+
+**3. Directness. Go straight ahead.** Practise the real skill in the setting
+where you will use it. Build the real project. Speak the real language. Give
+the real talk. If that is unsafe, simulate it. This stops the problem where
+knowledge cannot leave the room it was learned in. Young says plainly that
+this is uncomfortable on purpose, because it means being visibly bad at the
+real thing.
+
+*Tip: to learn a service, ship the smallest real change to it instead of
+reading it end to end. One merged one-line fix teaches more than a day of
+reading.*
+
+**4. Drill. Attack your weakest point.** Find the one part that is holding the
+whole skill back. Pull it out, practise it on its own, then put it back. You
+find the weak part by doing the real thing first, so drills are never where
+you start. This stops you from practising what you are already good at.
+
+*Tip: note the step that slows me down each week. When the same step shows up
+three times, spend thirty minutes on that step alone, away from real work.*
+
+**5. Retrieval. Test to learn.** Recall instead of reviewing. Close the book
+and write what you know, before you feel ready. Trying a problem before you
+are shown the answer helps, even when you get it wrong. This stops you from
+mistaking recognition for real knowledge.
+
+*Tip: write the Known, Unknown, Not needed, Next from memory with the sources
+closed. Then open them and correct it. The corrections are the real result.*
+
+**6. Feedback. Do not dodge the punches.** The kind of feedback matters more
+than the amount. Outcome feedback tells you whether it worked. Informational
+feedback tells you what was wrong. Corrective feedback tells you what was
+wrong and how to fix it. Aim for the third. Ignore noise, which is variation
+caused by luck rather than by your work, and be careful with praise, because
+it feels good and takes the place of something useful.
+
+*Tip: when a review says the change looks fine, ask what would have made it
+wrong. "Looks good" tells you nothing. The answer to that question does.*
+
+**7. Retention. Do not fill a leaky bucket.** Forgetting starts straight away,
+so retention has to be built in. Spread reviews out instead of bunching them.
+Practise until the skill runs without effort. Keep going a little past the
+point where you first get it right. Use memory aids for the facts that will
+not stick any other way.
+
+*Tip: reopen one investigation note a week and rebuild it from memory before
+reading it. What I cannot rebuild is what I never understood.*
+
+**8. Intuition. Dig deep before building up.** Deep understanding comes from
+refusing shortcuts, not from talent. Sit with a hard problem for a set time
+before looking up the answer. Work out a rule rather than memorise it. Start
+from a real example before generalising. Explain the idea as if to someone
+with no background, because the gaps in your explanation are the gaps in your
+understanding. This stops the kind of pattern matching that falls apart as
+soon as the problem looks different.
+
+*Tip: before asking anyone, write down what I think the answer is and why.
+Send the question anyway. The guess costs twenty minutes and makes the answer
+stick.*
+
+**9. Experimentation. Explore outside your comfort zone.** Copying a proven
+method is the right way to start and not enough later on, because at the edge
+of a field no single method covers the ground. Compare approaches side by
+side. Set yourself constraints that force a new one. Combine skills from areas
+that have nothing to do with each other. This stops the plateau you reach when
+you only ever do what you were taught.
+
+*Tip: experiment where failure is free. A scratch branch. A trace nobody
+needs. A design that will not ship. Not on the change going out today.*
+
+Young adds his own warnings. The nine are supports that hold at the same time,
+not steps in order. A full ultralearning project is demanding and is not the
+right tool for every subject. You can use the principles inside the learning
+time you already have without running a project at all.
 
 ## What It Confirmed
 
 The definition of understanding in [Four Stages of a Task](../docs/four-stages-of-a-task.md)
-is the book's Feynman technique with a prediction test attached. Stating the
-problem to someone who has read none of the sources is the explanation half;
-predicting what will break is the half most people skip.
+is the same test the book describes, with prediction added. Stating the
+problem to someone who has read none of the sources is the explaining half.
+Predicting what will break is the half most people skip.
 
-Known / Unknown / Not needed / Next in [Communication](../docs/communication.md)
-is free recall with a structure. Writing it from memory before rereading the
-evidence is the version that teaches; writing it with the sources open is
-transcription.
+Known, Unknown, Not needed, Next in [Communication](../docs/communication.md)
+is recall with a structure. Writing it from memory before rereading the
+evidence is the version that teaches. Writing it with the sources open is
+copying.
 
-Rollout rings in [Pace](../docs/pace.md) are a corrective feedback ladder.
-Each ring surfaces a class of failure the previous one could not, which is the
-same reason drills are ordered by bottleneck rather than by comfort.
+Rollout rings in [Pace](../docs/pace.md) are a feedback ladder. Each ring
+finds a kind of failure the one before it could not, which is the same reason
+drills are ordered by weakness rather than by comfort.
 
 Starting from the smallest step someone can correct is directness. So is
-reading the actual code instead of the summary of it.
+reading the actual code instead of a summary of it.
 
 ## What It Changed
 
-Say the prediction before asking. [Saying I Do Not Know](../docs/saying-i-dont-know.md)
+Say the guess before asking. [Saying I Do Not Know](../docs/saying-i-dont-know.md)
 says to do the reading that is cheap and ask about what stays expensive. That
-is a good policy for resolving an unknown and a poor one for learning, because
-the expensive part is where the understanding is and it gets outsourced every
-time. Sit with the expensive unknown for a bounded period, write down what I
-expect the answer to be, then ask. The question still goes out on the same
-timeline. A wrong prediction makes the answer stick.
+is a good way to clear an unknown and a poor way to learn, because the
+expensive part is where the understanding is and it gets handed to someone
+else every time. Sit with it for a set time, write down what I expect the
+answer to be, then ask. The question still goes out on the same day. A wrong
+guess makes the answer stick.
 
-Reconstruct one old investigation note a week from memory before opening it.
-The gap between what I recall and what I wrote is the only concrete measure of
-the "deeper technical understanding" that [Security Over Competition](../docs/security-over-competition.md)
-asks for. Ten minutes, no new work in progress.
+Rebuild one old investigation note a week from memory before opening it. The
+gap between what I remember and what I wrote is the only real measure of the
+deeper technical understanding that [Security Over Competition](../docs/security-over-competition.md)
+asks for. Ten minutes, and no new work in progress.
 
-Separate a slow step from a missing skill. Four Stages says stalled work is
+Tell a slow step apart from a missing skill. Four Stages says stalled work is
 usually an unasked question rather than a missing skill. That is right often
-enough to be dangerous. When the same kind of step is slow across three
-unrelated tasks, it is a skill bottleneck, and the fix is to practise it once
-off the critical path rather than pay the tax on every task.
+enough to be misleading. When the same kind of step is slow across three
+unrelated tasks, it is a skill problem, and the fix is to practise it once off
+the critical path instead of paying for it on every task.
 
-Map before reading. Naming the question gives an exit condition but not a
-route. Before opening anything, sort the unknowns into concepts, facts, and
-procedures. Concepts need tracing, facts need looking up once, procedures need
-doing. Treating all three as reading is how reading becomes browsing.
+Map before reading. Naming the question tells me when to stop, not where to
+go. Before opening anything, sort the unknowns. Concepts need tracing. Facts
+need one lookup. Procedures need doing. Treating all three as reading is how
+reading turns into browsing.
 
 ## What I Rejected
 
 Flashcards, a spaced repetition tool, a personal curriculum, and a learning
-backlog. Those are built for taking a subject from zero. I am learning systems
-while working inside them, which is already direct, and each of those would add
-a standing commitment that [Working With Restraint](../docs/working-with-restraint.md)
+backlog. Those are built for taking a subject from zero. I learn systems while
+working inside them, which is already direct, and each of those would add a
+standing commitment that [Working With Restraint](../docs/working-with-restraint.md)
 exists to prevent.
 
-The intensity. The book is aggressive by design and treats discomfort as
-evidence the method is working. That does not fit a handbook whose mantra is to
-react less and give more. Take the mechanisms, leave the pace.
+The intensity. The book is aggressive on purpose and treats discomfort as a
+sign the method is working. That does not fit a handbook whose mantra is to
+react less and give more. Take the methods, leave the pace.
 
 ## Review Questions
 
 - Did I write what I expected the answer to be before I asked?
-- Did I write the Known / Unknown / Not needed / Next from memory, or with the
+- Did I write the Known, Unknown, Not needed, Next from memory, or with the
   sources open?
 - Can I still explain last month's investigation without rereading the note?
 - Is this step slow because a question is unasked, or because I cannot yet do
