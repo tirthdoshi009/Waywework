@@ -68,6 +68,29 @@ Newport sets his own scope limit before the rules begin. He writes that a senior
 executive at a major company probably does not need this advice, and extends the
 exemption to some salespeople and lobbyists, calling it a rule of specificity.
 
+## Practical Routine
+
+- Book one sixty- to ninety-minute block before the day fills up. Name it for
+  the output, such as "trace why the request retries," rather than "focus time."
+- Before the block, write three lines: the question, what enough progress looks
+  like, and the first action. If I cannot write the question, spend fifteen
+  minutes finding it with someone before protecting time to answer it.
+- Close Teams and email, put the phone out of reach, and state when I will be
+  available again. Leave one explicit route for something genuinely urgent.
+- Keep a piece of paper beside me. When an unrelated task appears, write it down
+  instead of switching. Mark each actual switch with a tally and return to the
+  written first action or next step.
+- If I am stuck for fifteen minutes, write Known, Unknown, Not needed, Next. Ask
+  a focused question when the missing fact belongs to someone else; continue
+  alone when the next experiment is mine to run.
+- Stop five minutes before the block ends. Record the answer, evidence, remaining
+  unknown, and exact restart point so the next block does not begin by rebuilding
+  context.
+- Put shallow work into one or two visible windows. Check messages there instead
+  of between steps of the hard work.
+- At the end of the week, count completed blocks and inspect what caused the
+  first switch in each failed one. Change one condition for the following week.
+
 ## Where It Falls Short
 
 **Talking is not shallow work.** A message on Teams that returns a fact I did
