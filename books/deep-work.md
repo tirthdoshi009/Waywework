@@ -92,12 +92,16 @@ availability made predictable, not availability withdrawn.
 
 ## Review Questions
 
-- Does this task have a question yet, or am I about to concentrate on a topic?
-- Was the most useful thing I did today something this book would score as
-  shallow?
-- How many months would it take to train a smart new graduate to do the thing I
-  am about to spend the morning on?
-- Is this task finished, or parked in writing? If neither, what am I carrying?
-- Am I protecting attention, or protecting territory?
-- Would the person who needs me right now be able to predict when they can
-  reach me?
+- Did I complete at least one uninterrupted hour of deep work today?
+- Before I started, did I write the question the block should answer and what
+  would count as enough progress to stop?
+- How many times did I switch away during the block, and what caused the first
+  switch?
+- When I stopped, did I record the answer, the next question, or the reason I
+  was blocked?
+- Did I tell people when I would be available again and leave a narrow path for
+  something genuinely urgent?
+- Which shallow task created useful leverage today, and which one should I
+  decline, defer, or shorten next time?
+- Before I protect another morning for this work, how many months would it take
+  to train a smart new graduate to do it?
