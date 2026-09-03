@@ -24,6 +24,8 @@ the book's argument on its own terms first, so it stands without the handbook,
 and then records what was confirmed, what changed, and what was rejected.
 
 - [Ultralearning](books/ultralearning.md)
+- [Writing to Learn](books/writing-to-learn.md)
+- [Deep Work](books/deep-work.md)
 
 ## How to Contribute
 

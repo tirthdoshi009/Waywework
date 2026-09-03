@@ -25,9 +25,9 @@ would resolve an important unknown. If I cannot write the Next line, the reading
 is not finished, however much I have read.
 
 Separate reading that closes an unknown from reading that opens new scope. Only
-the first is progress toward the question I named. The second is not necessarily
-wasted, but it belongs in the artifact as a deferred question rather than in what
-I am doing now.
+the first is progress toward the question I named. The second is not
+necessarily wasted, but it belongs in the artifact as a deferred question
+rather than in what I am doing now.
 
 Do not treat reading nobody can see as having happened. An unshared artifact is
 indistinguishable from not having done the work.
