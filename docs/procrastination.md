@@ -1,11 +1,12 @@
 # Procrastination
 
-There is a task I know matters, and I do not start it. Not because I decided
-against it, and not because something else was more urgent. I imagined the work
-as one large, hard block, and the imagining was enough to keep me away from it.
+Procrastination is not starting a task that matters, without having decided
+against it and without anything more urgent taking its place. The work gets
+imagined as one large, hard block, and the imagining is enough to keep it
+untouched.
 
 The imagined version is almost always heavier than the real one. What gets
-avoided is rarely the work itself; it is the picture of the work I built before
+avoided is rarely the work itself; it is the picture of the work built before
 touching it.
 
 ## Separate Delay from Restraint
@@ -74,7 +75,7 @@ the day was avoidance with good posture.
 ## The Dread Is Often Social, Not Technical
 
 The delayed item is frequently a message rather than a piece of work: a question
-that reveals I did not understand something, a correction, an estimate that will
+that reveals something was not understood, a correction, an estimate that will
 disappoint, an admission that an earlier approach was wrong.
 
 Name that honestly rather than restating it as a scheduling problem. Waiting
