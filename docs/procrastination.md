@@ -31,7 +31,7 @@ and re-deciding what it is every time it surfaces.
 
 [Four Stages of a Task](four-stages-of-a-task.md) already gives the test: if the
 Next line cannot be written, the work has not been made small enough to start.
-Do not treat that as a reason to read more. Treat it as the actual first task —
+Do not treat that as a reason to read more. Treat it as the actual first task:
 naming the step is the work that is being avoided.
 
 ## Start Small, and Let the Start Be Short
@@ -90,7 +90,7 @@ decision costs someone else theirs, and they usually cannot see why they are
 waiting.
 
 Treat those as different classes. Anything another person is blocked on is not
-eligible for a five-minute start — it gets answered, even partially, even with
+eligible for a five-minute start: it gets answered, even partially, even with
 "I have not looked at this yet; I will by Thursday." A stated default is
 [cheaper for everyone](four-stages-of-a-task.md) than silence.
 
@@ -99,9 +99,9 @@ eligible for a five-minute start — it gets answered, even partially, even with
 When something has been sitting untouched for days, work through this in order
 and stop as soon as the task starts moving:
 
-1. Say out loud what is actually being avoided. Not the project — the specific
-   next action inside it. "The migration" is a project. "Ask whether we still
-   support the old field" is a task.
+1. Say out loud what is actually being avoided. Not the project, but the
+   specific next action inside it. "The migration" is a project. "Ask whether
+   we still support the old field" is a task.
 2. Check whether it is a genuine wait. Name what has to arrive and when. If
    nothing can be named, continue.
 3. Write the smallest step that yields a correctable artifact. If the smallest
@@ -116,7 +116,7 @@ and stop as soon as the task starts moving:
 7. Write down the Next line before closing. Tomorrow's resistance is largely
    built out of today's undefined ending.
 8. If two attempts fail the same way, the problem is not motivation. Something
-   is unresolved — an unasked question, a decision that is not yours, a task
+   is unresolved: an unasked question, a decision that is not yours, a task
    that should not be done at all. Escalate it or drop it rather than
    rescheduling it a third time.
 
