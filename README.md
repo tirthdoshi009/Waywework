@@ -15,6 +15,7 @@ This might not be something that everyone likes or does like doing. There's alwa
 - [Saying I do not know](docs/saying-i-dont-know.md)
 - [Four stages of a task](docs/four-stages-of-a-task.md)
 - [Deciding](docs/deciding.md)
+- [Procrastination](docs/procrastination.md)
 - [Rule template](templates/rule.md)
 
 ## Books
@@ -26,6 +27,7 @@ and then records what was confirmed, what changed, and what was rejected.
 - [Ultralearning](books/ultralearning.md)
 - [Writing to Learn](books/writing-to-learn.md)
 - [Deep Work](books/deep-work.md)
+- [Team Geek](books/team-geek.md)
 
 ## How to Contribute
 
