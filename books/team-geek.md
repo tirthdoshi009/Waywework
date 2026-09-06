@@ -24,6 +24,20 @@ your decisions easy to follow, and be willing to say what you know and what you
 still do not know. The team becomes easier to trust because the work becomes
 easier to reason about.
 
+## Practical Tips
+
+- Make the state of the work visible before it turns expensive. A short update
+  naming the problem, the current understanding, and the next question helps the
+  team work from the same model of reality.
+- Say what you think early, with the trade-off attached. If the issue is likely
+  wrong, make that clear and ask for the input that would change your mind.
+- Put ownership on the work, not just on the people. A task is easier to pick up
+  when someone can tell where the decision actually lives.
+- Ask for help when the cost of delay is lower than the cost of guessing. A
+  direct request for context is often cheaper than a silent misunderstanding.
+- Write down what is done, what is blocked, and what is next. Simple status is
+  not bureaucratic theatre; it is a way of keeping the team aligned.
+
 ## What It Confirmed
 
 The strongest point in [Communication](../docs/communication.md) is that a
