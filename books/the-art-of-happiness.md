@@ -53,6 +53,19 @@ I also changed how I judge effort. The book is not asking for blank calm or
 indifferent detachment. It asks for a clearer relation to suffering and desire,
 which is a useful lens when work becomes loud, urgent, or competitive.
 
+## Practical Tips
+
+- When the urge to answer immediately appears, pause for ten slow breaths and
+  write down three things: the fact, the story, and the next useful action.
+- Before a difficult message, say the problem in one sentence without blame or
+  explanation. A calmer sentence makes a more useful response possible.
+- If the task feels urgent, ask what changes if I wait twenty minutes. If the
+  answer is nothing, make the urgency visible and choose the next step rather
+  than acting from heat.
+- Keep one small practice in view during the day: returning to the breath,
+  naming one source of gratitude, or asking what is in my control. A steady cue
+  is easier to maintain than a grand mood.
+
 ## What I Rejected
 
 A version of happiness that depends on constant optimism. That is a poor fit for
