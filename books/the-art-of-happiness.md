@@ -19,6 +19,22 @@ practice that changes behaviour. The suggestions are simple in principle and
 difficult in practice: compassion, gratitude, inner calm, and a realistic sense
 of what is in our control.
 
+## Practical Tips
+
+- Notice the urge to react before acting on it. Name the emotion, separate it
+  from the fact, and ask whether the next step is still the work that matters.
+- Put a small delay between the trigger and the reply. A few breaths, a short
+  walk, or a single clarifying question usually gives the mind enough room to
+  choose instead of chase.
+- Write the fact and the story separately. The fact is what happened; the story
+  is the interpretation that makes it feel personal, urgent, or final.
+- Choose one thing I can actually control: my wording, my timing, my attention,
+  or the boundary around my availability. A calm mind becomes useful only when
+  it is pointed at a real decision.
+- End the day by naming the place where I did not feed craving or fear. A small
+  practice repeated consistently is more useful than a grand mood that never
+  lasts.
+
 ## What It Confirmed
 
 This matches the work in [Working with restraint](../docs/working-with-restraint.md)
