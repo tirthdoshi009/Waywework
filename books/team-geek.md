@@ -71,6 +71,20 @@ matter of writing the right values down. Values matter, but values without a
 working system for feedback and ownership remain decorative. The real change is
 in the decisions made when the work is messy.
 
+## Practical Tips
+
+- Share the context before the issue becomes expensive. A short message with the
+  problem, the decision, and the risk is more useful than a polished update sent
+  after the fact.
+- Say what is known, what is unknown, and what is next. This keeps a teammate
+  from guessing, and it gives them a narrow place to help.
+- Name the owner of the decision when it matters. If the decision is unclear,
+  the work becomes a shared ghost and everyone waits for someone else to move.
+- Ask for help early when the uncertainty is bigger than the answer. A small
+  question is cheaper than a large surprise.
+- Leave the next step visible. A task that ends in "I will check" is harder to
+  trust than a task that ends in "I will check by Thursday and send the result."
+
 ## Review Questions
 
 - Did I explain the problem, my current understanding, and the next question?
