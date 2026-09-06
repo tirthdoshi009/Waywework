@@ -28,6 +28,7 @@ and then records what was confirmed, what changed, and what was rejected.
 - [Writing to Learn](books/writing-to-learn.md)
 - [Deep Work](books/deep-work.md)
 - [Team Geek](books/team-geek.md)
+- [The Art of Happiness](books/the-art-of-happiness.md)
 
 ## How to Contribute
 
