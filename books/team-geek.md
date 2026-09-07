@@ -29,7 +29,26 @@ The book then works outward: yourself, your team, your leader, difficult
 people, the wider organisation, and finally your users. Underneath all of it
 sit three pillars.
 
+```mermaid
+graph LR
+    S[Yourself] --> T[Your team]
+    T --> L[Your leader]
+    L --> D[Difficult people]
+    D --> O[The organisation]
+    O --> U[Your users]
+```
+
 ## The Three Pillars
+
+```mermaid
+graph TD
+    H[Humility]
+    R[Respect]
+    T[Trust]
+    H --- R
+    R --- T
+    T --- H
+```
 
 **1. Humility. You are not the centre of the universe.** Accept that you are
 not always right, and that the work is better when other people have had a go
