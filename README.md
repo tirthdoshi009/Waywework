@@ -20,9 +20,7 @@ This might not be something that everyone likes or does like doing. There's alwa
 
 ## Books
 
-What a book changed about the way I work, and what I left. A book note states
-the book's argument on its own terms first, so it stands without the handbook,
-and then records what was confirmed, what changed, and what was rejected.
+The books section is meant for getting a summary of the books I have read. One thing to note is the fact that it can never really replace the experience of reading the book. The truth is that when you read a book, the thoughts really go deep in your mind. While reading a summary reminds you of the things that the book offers and how can we apply it. So this is simply a collection of books, that I have read. All of them have helped me along the way. 
 
 - [Ultralearning](books/ultralearning.md)
 - [Writing to Learn](books/writing-to-learn.md)
