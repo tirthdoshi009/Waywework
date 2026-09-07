@@ -16,7 +16,6 @@ This might not be something that everyone likes or does like doing. There's alwa
 - [Four stages of a task](docs/four-stages-of-a-task.md)
 - [Deciding](docs/deciding.md)
 - [Procrastination](docs/procrastination.md)
-- [Rule template](templates/rule.md)
 
 ## Books
 
@@ -26,11 +25,3 @@ The books section is meant for getting a summary of the books I have read. One t
 - [Writing to Learn](books/writing-to-learn.md)
 - [Deep Work](books/deep-work.md)
 - [The Inner Game of Work](books/inner-game-of-work.md)
-
-## How to Contribute
-
-1. Start from something you actually observed, not a hypothetical.
-2. Use the [rule template](templates/rule.md) for anything substantive.
-3. Say why the guidance exists, not just what to do.
-4. Keep changes small enough to stand on their own.
-5. Update or remove a doc once it stops matching how we actually work.
