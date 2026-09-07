@@ -27,6 +27,7 @@ and then records what was confirmed, what changed, and what was rejected.
 - [Ultralearning](books/ultralearning.md)
 - [Writing to Learn](books/writing-to-learn.md)
 - [Deep Work](books/deep-work.md)
+- [The Inner Game of Work](books/inner-game-of-work.md)
 
 ## How to Contribute
 
