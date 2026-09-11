@@ -11,10 +11,13 @@ This might not be something that everyone likes or does like doing. There's alwa
 - [Writing chronologically](docs/writing-chronologically.md)
 - [Work boundaries](docs/work-boundaries.md)
 - [Working with restraint](docs/working-with-restraint.md)
+- [Pace](docs/pace.md)
 - [Security over competition](docs/security-over-competition.md)
 - [Saying I do not know](docs/saying-i-dont-know.md)
 - [Four stages of a task](docs/four-stages-of-a-task.md)
 - [Deciding](docs/deciding.md)
+- [Leading with context](docs/leading-with-context.md)
+- [Repairing mistakes](docs/repairing-mistakes.md)
 - [Procrastination](docs/procrastination.md)
 - [Handing work off](docs/handing-work-off.md)
 

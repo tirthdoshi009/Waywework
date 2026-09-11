@@ -58,6 +58,28 @@ only be sympathised with. The written form of this is the Known / Unknown /
 Not needed / Next structure in [Communication](communication.md); this is the
 same discipline applied out loud and in real time.
 
+## Name the Kind of Unknown
+
+There is a difference between not knowing an answer, knowing which question is
+open, and not yet knowing what needs to be questioned.
+
+The first can often be resolved by reading. The second can be investigated,
+assigned, or turned into a decision. The third requires slowing down and
+describing the system before choosing a solution.
+
+I saw this while thinking through a job that stores permissions and later maps
+them against rules. The implementation sounded straightforward until I wrote
+down the flow. That exposed questions about the storage model, the association
+between permissions and agents, growth, dependencies, and failure behaviour.
+The questions were not implementation details waiting for answers. They were
+parts of the problem that had not been visible yet.
+
+Unexpected failures often come from this third kind of unknown. An assumption
+was present, but nobody made it visible enough to challenge. Writing the system
+in the order it behaves, as described in
+[Writing Chronologically](writing-chronologically.md), is one way to find these
+assumptions before they become design decisions.
+
 ## Distinguish Not Knowing From Not Having Looked
 
 "I do not know how to create a workflow in GitHub" is honest and cheap to
@@ -91,6 +113,7 @@ what I say worth acting on.
 
 - Am I holding an unknown that other people are currently planning against?
 - Have I said it plainly, or hedged it into a request for reassurance?
+- Do I know the open question, or am I still discovering what must be asked?
 - Is there a question attached, or only a feeling?
 - Have I done the reading that was cheap before spending someone else's time?
 - If I am the most senior person here, have I gone first?

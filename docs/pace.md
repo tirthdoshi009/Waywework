@@ -64,6 +64,20 @@ that.
 The practical consequence is that quality is the investment that funds
 everything else here.
 
+## Do Not Make Intensity the Normal Pace
+
+Some work requires a short period of unusual focus. A production failure, a
+difficult design decision, or a consequential deadline can justify intensity.
+That does not make maximum intensity a sustainable default.
+
+After an intense period, restore the practices that make quality repeatable:
+write down what was learned, close temporary work, repair what was deferred,
+and recover before creating another emergency.
+
+Intensity can resolve an event. Consistency improves the system that produced
+it. Regular writing, reflection, and smaller experiments matter because they
+reduce how often the work needs to be rescued by extraordinary effort.
+
 ## Review Questions
 
 - What is this system's own pace, and if I am overriding it, what am I
@@ -73,6 +87,7 @@ everything else here.
 - Is this finished, or does it only look finished from where I am standing?
 - Am I moving quickly because the outcome needs it, or because moving quickly
   resembles working?
+- Is this a short period of necessary intensity, or have I made it the default?
 - What would have to be true for the slower path to be the cheaper one?
 
 Related: [Working with Restraint](working-with-restraint.md) covers the pause
