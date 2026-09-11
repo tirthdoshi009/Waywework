@@ -16,6 +16,7 @@ This might not be something that everyone likes or does like doing. There's alwa
 - [Four stages of a task](docs/four-stages-of-a-task.md)
 - [Deciding](docs/deciding.md)
 - [Procrastination](docs/procrastination.md)
+- [Handing work off](docs/handing-work-off.md)
 
 ## Books
 
