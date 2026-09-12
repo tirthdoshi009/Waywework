@@ -6,6 +6,7 @@ This might not be something that everyone likes or does like doing. There's alwa
 
 ## Handbook
 
+- [Personal mission statement](docs/personal-mission-statement.md)
 - [Meetings](docs/meetings.md)
 - [Communication](docs/communication.md)
 - [Writing chronologically](docs/writing-chronologically.md)
