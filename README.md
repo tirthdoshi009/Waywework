@@ -21,6 +21,7 @@ This might not be something that everyone likes or does like doing. There's alwa
 - [Repairing mistakes](docs/repairing-mistakes.md)
 - [Procrastination](docs/procrastination.md)
 - [Handing work off](docs/handing-work-off.md)
+- [Raise dependencies early](docs/raising-dependencies-early.md)
 
 ## Books
 
