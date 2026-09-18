@@ -126,6 +126,6 @@ finding a problem early is to retain more choices.
 - What did the last failed assumption cause us to do differently?
 
 Related: [Communication](communication.md) covers how to state knowns and
-unknowns; [Four Stages of a Task](four-stages-of-a-task.md) covers moving from
-reading to discussion; and [Deciding](deciding.md) covers escalating when a
-needed decision does not arrive.
+unknowns; [Deciding](deciding.md) covers escalating when a needed decision
+does not arrive; and [Fail Fast, Learn Fast](fail-fast-learn-fast.md) covers
+testing uncertain assumptions while they are still cheap to change.

@@ -39,8 +39,8 @@ say why a constraint exists, it is preference, and preference does not belong
 in a handoff.
 
 The written form of a handoff is the Known / Unknown / Not needed / Next
-structure in [Communication](communication.md). What is worth being specific
-about is covered in [Four Stages of a Task](four-stages-of-a-task.md).
+structure in [Communication](communication.md). Use it to distinguish real
+constraints from open questions without prescribing the implementation.
 
 ## Trust Is Not a Thing You Say
 

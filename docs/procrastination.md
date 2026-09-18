@@ -30,10 +30,10 @@ A task that feels hard is often a task whose first action was never written
 down. The weight is not the difficulty; it is holding an undefined thing in mind
 and re-deciding what it is every time it surfaces.
 
-[Four Stages of a Task](four-stages-of-a-task.md) already gives the test: if the
-Next line cannot be written, the work has not been made small enough to start.
-Do not treat that as a reason to read more. Treat it as the actual first task:
-naming the step is the work that is being avoided.
+The **Next** line from [Communication](communication.md) gives the test: if it
+cannot be written, the work has not been made small enough to start. Do not
+treat that as a reason to read more. Treat it as the actual first task: naming
+the step is the work that is being avoided.
 
 ## Start Small, and Let the Start Be Short
 
@@ -93,7 +93,7 @@ waiting.
 Treat those as different classes. Anything another person is blocked on is not
 eligible for a five-minute start: it gets answered, even partially, even with
 "I have not looked at this yet; I will by Thursday." A stated default is
-[cheaper for everyone](four-stages-of-a-task.md) than silence.
+cheaper for everyone than silence.
 
 ## A Practical Way Through
 

@@ -88,8 +88,8 @@ reading did not answer.
 
 Saying "I do not know" in place of twenty minutes of reading spends other
 people's attention to save my own. Do the reading that is cheap; ask about what
-stays expensive. Reading has an exit condition, covered in
-[Four Stages of a Task](four-stages-of-a-task.md).
+stays expensive. Reading ends when another person becomes the cheapest way to
+resolve what remains unknown.
 
 The honest sentence is often "I have read the code and I still do not know
 why this branch exists." That sentence is far stronger than either pretending

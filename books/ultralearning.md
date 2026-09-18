@@ -115,10 +115,10 @@ time you already have without running a project at all.
 
 ## What It Confirmed
 
-The definition of understanding in [Four Stages of a Task](../docs/four-stages-of-a-task.md)
-is the same test the book describes, with prediction added. Stating the
-problem to someone who has read none of the sources is the explaining half.
-Predicting what will break is the half most people skip.
+The definition of understanding I use is the same test the book describes,
+with prediction added. Stating the problem to someone who has read none of the
+sources is the explaining half. Predicting what will break is the half most
+people skip.
 
 Known, Unknown, Not needed, Next in [Communication](../docs/communication.md)
 is recall with a structure. Writing it from memory before rereading the
@@ -147,11 +147,11 @@ gap between what I remember and what I wrote is the only real measure of the
 deeper technical understanding that [Security Over Competition](../docs/security-over-competition.md)
 asks for. Ten minutes, and no new work in progress.
 
-Tell a slow step apart from a missing skill. Four Stages says stalled work is
-usually an unasked question rather than a missing skill. That is right often
-enough to be misleading. When the same kind of step is slow across three
-unrelated tasks, it is a skill problem, and the fix is to practise it once off
-the critical path instead of paying for it on every task.
+Tell a slow step apart from a missing skill. Stalled work is usually an unasked
+question rather than a missing skill. That is right often enough to be
+misleading. When the same kind of step is slow across three unrelated tasks,
+it is a skill problem, and the fix is to practise it once off the critical path
+instead of paying for it on every task.
 
 Map before reading. Naming the question tells me when to stop, not where to
 go. Before opening anything, sort the unknowns. Concepts need tracing. Facts

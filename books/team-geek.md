@@ -110,10 +110,9 @@ in process.
 
 **Publish before it is good.** The private network question sat with me for
 weeks because nobody had told me how it should work, and I treated that as a
-reason to keep reading rather than a reason to write. [Four Stages of a
-Task](../docs/four-stages-of-a-task.md) says to name the question. This book
-says to publish the half-formed answer along with it, on the day, and let being
-wrong in public be the cheap thing it is.
+reason to keep reading rather than a reason to write. Naming the question was
+not enough. This book says to publish the half-formed answer along with it, on
+the day, and let being wrong in public be the cheap thing it is.
 
 **Count the bus factor on what only I know.** Not as a virtue and not as
 documentation debt, but as a list. Anything on it that has no second reader is

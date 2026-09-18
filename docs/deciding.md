@@ -44,9 +44,8 @@ not.
 
 State a default instead: what will happen, when it will happen, and what would
 change it. "The feature goes on Thursday unless the improvement is required for
-correctness, in which case say so and I will hold it." This is the same pattern
-as the default in [Four Stages of a Task](four-stages-of-a-task.md), applied to
-someone else's decision rather than my own.
+correctness, in which case say so and I will hold it." This applies the
+default-and-proceed pattern to someone else's decision rather than my own.
 
 A default is not a way of getting past an objection. It is a way of ensuring
 that a decision happens, including the decision to hold. The person who wanted

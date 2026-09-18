@@ -89,12 +89,10 @@ between the two drafts is the finding, and it is usually an item that migrated
 from Known to Unknown. Ten minutes, and no new work in progress.
 
 **Write the explanation before I understand, not after.**
-[Four Stages of a Task](../docs/four-stages-of-a-task.md) orders reading, then
-discussion, then understanding, then the work, with writing as the artifact that
-ends the reading stage. The book's stronger claim is that writing is how the
-understanding is produced, so the artifact should be started while the reading
-is still bad. The stages still hold; what changes is that the draft opens the
-reading stage rather than closing it.
+I had treated writing as the artifact that ends the reading stage. The book's
+stronger claim is that writing is how understanding is produced, so the
+artifact should be started while the reading is still bad. The draft opens the
+investigation rather than recording it after the thinking appears complete.
 
 **Name one reader before writing.** Not the role, the person. A message written
 to "the team" acquires institutional voice by default, and institutional voice
