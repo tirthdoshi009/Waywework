@@ -63,6 +63,17 @@ Before accepting more work, name the current lead domino and its planned end.
 If the request cannot wait, say which existing priority it replaces. That makes
 the trade-off a decision rather than a private interruption.
 
+## Practical Tips
+
+- Start the day by writing the one question, decision, or change that would make
+  the most other work easier.
+- Reserve a calendar block for that work and define the observable result before
+  opening messages.
+- Keep a visible list of deferred work so an interruption becomes an explicit
+  trade-off rather than a forgotten priority.
+- When new work cannot wait, state which current task it replaces and when the
+  displaced work will resume.
+
 ## Review Questions
 
 - What is the one action that would make the most other work easier?
