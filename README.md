@@ -32,3 +32,4 @@ The books section is meant for getting a summary of the books I have read. One t
 - [Writing to Learn](books/writing-to-learn.md)
 - [Deep Work](books/deep-work.md)
 - [The Inner Game of Work](books/inner-game-of-work.md)
+- [The ONE Thing](books/the-one-thing.md)
