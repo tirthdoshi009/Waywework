@@ -8,6 +8,7 @@ This might not be something that everyone likes or does like doing. There's alwa
 
 - [Personal mission statement](docs/personal-mission-statement.md)
 - [Meetings](docs/meetings.md)
+- [Shared silence](docs/shared-silence.md)
 - [Communication](docs/communication.md)
 - [Writing chronologically](docs/writing-chronologically.md)
 - [Work boundaries](docs/work-boundaries.md)
