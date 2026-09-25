@@ -31,9 +31,9 @@ sure the boundary works, not absorbing the other side of it.
 
 ## Bring the Right People Into the Work
 
-If the work needs Gina's design decisions, inviting Gina is part of owning the
-work. Show the mocks, explain the technical boundaries, and state which
-decisions are still open.
+If the work needs design decisions, involving the design partner is part of
+owning the work. Show the mocks, explain the technical boundaries, and state
+which decisions are still open.
 
 For this experience, the design conversation should make clear:
 
@@ -64,8 +64,8 @@ For example:
 >
 > **Not needed:** A second policy enforcement implementation in Agent 365.
 >
-> **Next:** Review the available WorkIQ APIs and repository, then walk Gina
-> through the resulting experience boundaries and mocks.
+> **Next:** Review the available WorkIQ APIs and repository, then walk the
+> design partner through the resulting experience boundaries and mocks.
 
 This makes ownership observable. It replaces "another team needs to do
 something" with a bounded action that can be completed, assigned, or
@@ -102,6 +102,32 @@ assignment, bulk assignment, and design.
 A finished slice might be a verified API contract, a reviewed set of mocks, or
 one end-to-end policy operation. It should leave the next person with evidence
 or a usable result, not merely a report that time was spent.
+
+## Practical Tips
+
+- Write the outcome in one sentence before discussing implementation.
+- List every team, system, and person the outcome crosses.
+- Mark each boundary as confirmed, assumed, or still unknown.
+- Bring the people needed for the next decision into the conversation early.
+- Show mocks, examples, API responses, or traces instead of relying on an
+  abstract explanation.
+- Before a meeting, write down the decisions needed and who can make them.
+- End the meeting with an owner, a next action, and a date for every unresolved
+  decision.
+- Use **Known**, **Unknown**, **Not needed**, and **Next** when a thread starts
+  mixing evidence with assumptions.
+- Choose one complete result that can be produced within two hours and finish
+  it before opening another part of the problem.
+- Put review and approval requests in the shared place where the responsible
+  group can see them.
+- Record when to follow up, then continue independent work instead of repeatedly
+  checking for a response.
+- Escalate the delivery risk, missing decision, or absent owner. Do not escalate
+  frustration with a person.
+- Keep a short thread note containing the current state, next owner, and next
+  checkpoint so that the work can resume without reconstructing it.
+- When handing work over, ask the new owner to restate the outcome and next
+  action. Correct missing context before implementation begins.
 
 ## Review Questions
 
