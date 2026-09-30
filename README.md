@@ -17,6 +17,7 @@ This might not be something that everyone likes or does like doing. There's alwa
 - [Security over competition](docs/security-over-competition.md)
 - [Saying I do not know](docs/saying-i-dont-know.md)
 - [Pausing on ambiguity](docs/pausing-on-ambiguity.md)
+- [Solitude](docs/solitude.md)
 - [Deciding](docs/deciding.md)
 - [Leading with context](docs/leading-with-context.md)
 - [Repairing mistakes](docs/repairing-mistakes.md)
