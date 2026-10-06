@@ -13,6 +13,7 @@ This might not be something that everyone likes or does like doing. There's alwa
 - [Writing chronologically](docs/writing-chronologically.md)
 - [Work boundaries](docs/work-boundaries.md)
 - [Working with restraint](docs/working-with-restraint.md)
+- [Depth over volume](docs/depth-over-volume.md)
 - [Pace](docs/pace.md)
 - [Security over competition](docs/security-over-competition.md)
 - [Saying I do not know](docs/saying-i-dont-know.md)
